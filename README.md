@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-DataScientists ToolBox@Coursera 
